@@ -269,4 +269,4 @@ This repository serves as the official landing page for Dofus Touch. The softwar
 **Get the most recent version of Dofus Touch today!**
 
 ---
-**Last updated:** 2026-09-13 03:25:43 UTC
+**Last updated:** 2026-09-13 09:01:10 UTC
